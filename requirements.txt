@@ -1,0 +1,5 @@
+soundcard
+sounddevice
+numpy
+PyQt6
+pyinstaller
